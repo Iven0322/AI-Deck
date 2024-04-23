@@ -1,0 +1,285 @@
+   text	   data	    bss	    dec	    hex	filename
+ 0x4f1c	 0x1618	 0x9e3c	  66416	  10370	/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000338 00000001 D __rt_hyper_pending_emu_do_memcpy	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:53
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000bb8 00000001 D camera_isAwaked	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/camera/himax.c:150
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002b8a 00000002 T __rt_fll_deinit	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:876
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002b8c 00000002 T __rt_flls_constructor	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:880
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001a4c 00000002 W illegal_insn_handler_c	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/irq.c:89
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050bc 00000003 d ToHWDCDC_Pos	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:192
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050c0 00000004 D PMURetentionState
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050cc 00000004 d RetPMUStateToPMUState	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:185
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052b0 00000004 b __pi_hyper_cluster_reqs_first	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:62
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef4c 00000004 B __rt_alloc_fc_tcdm
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef44 00000004 B __rt_alloc_l1
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef48 00000004 B __rt_alloc_l2
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000014 00000004 d __rt_bridge_eeprom_handle	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:25
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000010 00000004 d __rt_bridge_flash_cs	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:29
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000004 00000004 d __rt_bridge_flash_handle	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:26
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000000c 00000004 d __rt_bridge_flash_itf	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:28
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000008 00000004 d __rt_bridge_flash_type	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:27
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1000001c 00000004 D __rt_cluster_fc_task_lock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:59
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000018 00000004 D __rt_cluster_nb_active_pe
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef60 00000004 B __rt_cluster_tasks	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:41
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000b9c 00000004 D __rt_debug_config
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000b98 00000004 D __rt_debug_config_trace
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000014 00000004 D __rt_dma_first_pending
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000010 00000004 D __rt_dma_last_pending
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052ac 00000004 b __rt_fc_cluster_device	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/pulpos_emu.c:25
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050a0 00000004 V __rt_fc_stack_size
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000018 00000004 D __rt_first_free
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002b8e 00000004 T __rt_fll_set_freq	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:884
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000324 00000004 D __rt_hyper_current_task	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:27
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000320 00000004 D __rt_hyper_end_task	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:25
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052b4 00000004 b __rt_hyper_open_count	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:65
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000314 00000004 D __rt_hyper_pending_addr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:33
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000030c 00000004 D __rt_hyper_pending_base	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:31
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000330 00000004 D __rt_hyper_pending_emu_addr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:48
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000328 00000004 D __rt_hyper_pending_emu_channel	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:46
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000032c 00000004 D __rt_hyper_pending_emu_hyper_addr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:47
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000034c 00000004 D __rt_hyper_pending_emu_length	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:51
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000334 00000004 D __rt_hyper_pending_emu_size	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:49
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000348 00000004 D __rt_hyper_pending_emu_size_2d	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:50
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000350 00000004 D __rt_hyper_pending_emu_stride	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:52
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000033c 00000004 D __rt_hyper_pending_emu_task	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:54
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000310 00000004 D __rt_hyper_pending_hyper_addr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:32
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000318 00000004 D __rt_hyper_pending_repeat	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:34
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000031c 00000004 D __rt_hyper_pending_repeat_size	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:35
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000340 00000004 D __rt_hyper_pending_tasks	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:39
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000344 00000004 D __rt_hyper_pending_tasks_last	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:40
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000308 00000004 D __rt_hyper_udma_handle
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052b8 00000004 b __rt_i2s_first	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:40
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052c4 00000004 b __rt_io_event_current	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:40
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052c8 00000004 b __rt_io_pending_flush	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:50
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005098 00000004 V __rt_iodev
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00509c 00000004 V __rt_iodev_uart_baudrate
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052a4 00000004 V __rt_iodev_uart_channel
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005094 00000004 V __rt_platform
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052cc 00000004 b __rt_putc_host_buffer_index	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:48
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000038c 00000004 D __rt_rtc_init_done	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:26
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef5c 00000004 B __rt_wakeup_use_fast	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:173
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000390 00000004 D __rtc_handler	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:25
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052d0 00000004 b _rt_io_uart	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:38
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052f4 00000004 B cols
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004b08 00000004 t ctor_list	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:29
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004b44 00000004 t dtor_list	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:30
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef50 00000004 B first_delayed
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0022a8 00000004 T pi_cl_l1_malloc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:582
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0019fc 00000004 T pi_open_from_conf	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:325
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003904 00000004 T putchar	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:621
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000354 00000004 D pwmEventsStatus	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/pwm/pwm.c:9
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052d4 00000004 B rows
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005090 00000004 D seed
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052a8 00000004 b timer_count	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:23
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002d7c 00000006 T pi_cluster_conf_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:337
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003a32 00000006 T semihost_exit	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/semihost.c:51
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003a2c 00000006 T semihost_write0	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/semihost.c:6
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050a4 00000007 d SystemStateToSCUFastSeq	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:176
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050c4 00000008 D FllsFrequency
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef54 00000008 B __rt_freq_domains
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:000002b0 00000008 D __rt_socevents_status
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052bc 00000008 b __rt_spim_open_count	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/spim/spim-v2.c:26
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0039a4 00000008 T abort	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:739
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003356 0000000a T __rt_himax_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/camera/himax.c:400
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0031be 0000000a T __rt_padframe_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:58
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0022ac 0000000a T pi_cl_l1_free	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:587
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000004 0000000c D __rt_cluster_pool
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052f8 0000000c B cluster_dev
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003a1e 0000000e t __internal_semihost	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/semihost.h:75
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003384 0000000e t __rt_io_end_of_flush	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:366
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001378 0000000e t rt_compiler_barrier
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050ac 00000010 D PMUState
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000bbc 00000010 d __rt_io_fc_lock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:35
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004f88 00000010 V __rt_padframe_default	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:28
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004f98 00000010 V __rt_padframe_hyper	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:30
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004fa8 00000010 V __rt_padframe_hyper_gpio	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:32
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005294 00000010 b __rt_uart	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:43
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00372e 00000010 T memset	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:150
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001368 00000010 t rt_nb_pe
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004780 00000010 T rt_uart_conf_init
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002100 00000012 T __rt_event_sched_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:264
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002b78 00000012 T __rt_fll_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:871
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003360 00000012 T __rt_rtc_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:414
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003372 00000012 T __rt_spim_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/spim/spim-v2.c:446
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:0000001c 00000014 D __rt_sched
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000fbe 00000014 t pi_cl_team_critical_enter
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000fd2 00000014 t pi_cl_team_critical_exit
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0013a4 00000014 t pmsis_exit
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000be0 00000016 t hal_core_id
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000f26 00000016 t pi_cl_cluster_nb_cores
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000f10 00000016 t pi_core_id
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000db4 00000016 t plp_dma_counter_alloc
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000ede 00000016 t rt_irq_disable
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004fb8 00000018 V __rt_padframe_profiles
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0022b6 00000018 t __rt_time_poweroff	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:28
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0022ce 00000018 t __rt_time_poweron	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:37
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001f6e 00000018 T __rt_wait_event_prepare_blocking	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:42
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000ba0 00000018 d cbsys_first	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:30
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0038be 00000018 T fputc_locked
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001350 00000018 t rt_core_id
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0020e8 00000018 T rt_event_wait	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:257
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001068 00000018 t rt_team_critical_exit
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000c18 0000001a t hal_irq_restore
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001ffa 0000001a T rt_event_get	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:105
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00373e 0000001a T strchr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:278
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001cd0 0000001c t __rt_event_enqueue	/home/xieyifan/gap/gap_sdk/install/GAP8_V2/include/rt/rt_event.h:397
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00102c 0000001c t __rt_team_barrier
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0052d8 0000001c B cl_conf
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0012f2 0000001c t pi_cl_dma_wait
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000ef4 0000001c t rt_irq_restore
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001e4c 0000001e T __rt_bridge_clear_notif	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:838
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001e0e 0000001e T __rt_bridge_set_available	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:725
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000bc2 0000001e t core_id
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000d78 0000001e t eu_dispatch_push
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000d96 0000001e t eu_dispatch_team_config
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000c50 0000001e t eu_evt_maskClr
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000c32 0000001e t eu_evt_maskSet
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000c6e 0000001e t eu_evt_waitAndClr
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001386 0000001e t pmsis_kickoff
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002360 0000001e T rt_time_wait_us	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:124
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001cec 00000020 t __rt_bridge_check_bridge_req.part.5	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:638
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001e2c 00000020 T __rt_bridge_send_notif	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:821
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00468c 00000020 t __rt_uart_setfreq_after	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:135
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003af4 00000020 t _rlrshift	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/prf.c:122
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000cb8 00000020 t eu_bar_addr
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00347c 00000020 t rt_event_execute.isra.4.constprop.12	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001048 00000020 t rt_team_critical_enter
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002112 00000020 T rt_user_alloc_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:193
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0021f4 00000022 T __rt_alloc_init_l1	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:445
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001bda 00000022 T __rt_utils_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:84
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000cd8 00000022 t eu_bar_trig_wait_clr
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000bf6 00000022 t hal_irq_disable
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002014 00000022 T rt_event_get_blocking	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:127
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000f3c 00000024 t __rt_team_barrier_config
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004668 00000024 t __rt_uart_setup.isra.5	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:222
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000d54 00000024 t eu_mutex_unlock_from_id
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004f64 00000024 D max_values
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000dca 00000024 t plp_dma_counter_free
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002036 00000024 T rt_event_push	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:139
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003708 00000026 t __rt_io_stop	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:769
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004642 00000026 T __rt_uart_cluster_req_done	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:253
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001848 00000026 t cluster_start	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:198
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002798 00000026 t soc_eu_fcEventMask_setEvent	/home/xieyifan/gap/gap_sdk/install/GAP8_V2/include/hal/soc_eu/soc_eu_v1.h:60
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00475a 00000026 t soc_eu_fcEventMask_setEvent	/home/xieyifan/gap/gap_sdk/install/GAP8_V2/include/hal/soc_eu/soc_eu_v1.h:60
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002216 00000028 T __rt_alloc_init_l1_for_fc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:452
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0019d4 00000028 T __rt_deinit	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:163
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001f46 00000028 T __rt_event_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:32
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00ef64 00000028 B __rt_fc_cluster_data
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0032b0 00000028 t __rt_i2s_setfreq_after	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:235
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:000002b8 00000028 D __rt_udma_extra_callback
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:000002e0 00000028 D __rt_udma_extra_callback_arg
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003908 00000028 T _prf_locked	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:626
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000d2c 00000028 t eu_bar_setup
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003896 00000028 T puts	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:576
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003196 00000028 T rt_padframe_set	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/pads/pads-v1.c:77
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0046ee 0000002a t __rt_uart_setfreq_before	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:102
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0020be 0000002a T __rt_wait_event	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:247
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003a38 0000002a T printf	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/fprintf.c:41
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00276c 0000002c t SetFllMultDivFactors
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0032d8 0000002c t __rt_i2s_setfreq_before	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:219
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005150 0000002c b __rt_pulpos_emu_global_cluster_task	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/pulpos_emu.c:26
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000c8c 0000002c t eu_evt_maskWaitAndClr
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000f92 0000002c t pi_cl_team_fork
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0031c8 0000002e t __rt_hyper_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/hyper/hyperram-v1.c:995
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0038d6 0000002e T fputc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:603
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0021c6 0000002e T rt_alloc
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001baa 00000030 T __rt_cbsys_exec	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:71
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002e56 00000030 T pi_cluster_close	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:370
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001bfc 00000032 T __rt_fc_lock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:92
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00350c 00000032 t __rt_putc_host_cluster_req	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:451
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000f60 00000032 t __rt_team_config
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000cfa 00000032 t eu_bar_setup_mask
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001f12 00000034 T __rt_bridge_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:851
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001c2e 00000034 T __rt_fc_unlock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:127
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00327c 00000034 t __rt_i2s_resume	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:186
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003b58 00000034 t _get_digit	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/prf.c:167
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000358 00000034 D dev_rtc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/dolphin/rtc.c:24
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004868 00000034 T rt_uart_cluster_write	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:277
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001c9a 00000036 T __rt_fc_cluster_unlock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:199
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001c62 00000038 T __rt_fc_cluster_lock	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:189
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0037b6 00000038 T __rt_putc_uart	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:412
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001e6a 0000003a T __rt_bridge_printf_flush
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002ef6 0000003c T __rt_cluster_new	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:445
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002f32 0000003c t __rt_cluster_pulpos_emu_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/pulpos_emu.c:29
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001b6c 0000003e T __rt_cbsys_add	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:57
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00272e 0000003e T __rt_freq_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/freq.c:62
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000ea0 0000003e t plp_dma_cmd_push
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002a8c 00000040 T InitFlls	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:858
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0033e2 00000040 t __rt_do_putc_host	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:430
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0015d8 00000040 T my_rand
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004718 00000042 t __rt_uart_cluster_req	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:266
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0046ac 00000042 t __rt_uart_wait_tx_done.isra.6	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:222
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00130e 00000042 t pi_cl_dma_cmd
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003b14 00000044 t _ldiv5	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/prf.c:143
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001d0c 00000046 t __rt_bridge_wait
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0016ca 00000046 T cluster_delegate
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000fe6 00000046 t rt_team_fork
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00314e 00000048 T pi_cluster_send_task_to_cl	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster_call.c:149
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002132 00000048 T rt_user_alloc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:207
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001dc4 0000004a T __rt_bridge_check_connection
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0026e4 0000004a T rt_freq_set_and_get	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/freq.c:30
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001a00 0000004c T rt_irq_set_handler	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/irq.c:61
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00217a 0000004c T rt_user_free	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:291
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00481a 0000004e T rt_uart_close	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:228
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001a4e 00000050 T __rt_handle_illegal_instr	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/irq.c:94
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003392 00000050 t __rt_io_uart_wait_req	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:315
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003304 00000052 T __rt_i2s_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/i2s/i2s-v1.c:268
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001a9e 00000052 T __rt_irq_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/irq.c:103
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000b70 00000052 t pi_cluster_task
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002630 00000056 T __rt_periph_wait_event	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/periph-v2.c:237
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002ffe 00000056 T rt_cluster_mount	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/pulpos_emu.c:68
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003422 0000005a t __rt_io_start	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:746
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00489c 0000005c T __rt_uart_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:292
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002686 0000005e T __rt_periph_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/periph-v2.c:276
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003758 0000005e T __rt_putc_debug_bridge	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:288
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002b92 00000062 t __rt_init_cluster_data	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:72
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002bf4 00000064 t __rt_cluster_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:382
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00205a 00000064 T __rt_event_execute	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:189
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00223e 0000006a T __rt_allocs_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/alloc.c:465
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001ea4 0000006e T __rt_bridge_req_shutdown	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:774
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002e86 00000070 T __rt_cluster_push_fc_event	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:413
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00349c 00000070 t __rt_io_lock
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00353e 00000070 t __rt_io_unlock
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0017d8 00000070 T main
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001280 00000072 t __cl_dma_wait
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001d52 00000072 T __rt_bridge_handle_notif	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/bridge.c:644
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0039ac 00000072 T __rt_io_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:800
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003930 00000074 T exit	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:690
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001f86 00000074 T rt_event_alloc	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/events.c:52
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0022e6 0000007a T rt_event_push_delayed	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:59
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001af0 0000007c t __rt_fc_cluster_lock_req	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/utils.c:142
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005214 00000080 b __rt_io_event	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:39
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0050d0 00000080 d __rt_putc_host_buffer	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:47
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0031f6 00000086 T __pi_gpio_handler	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:54
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004790 0000008a T __rt_uart_open	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers_deprecated/uart/uart.c:151
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00367c 0000008c t __rt_io_uart_wait_pending	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:332
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0027be 0000008c T __rt_pmu_cluster_power_down	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:205
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00237e 0000008c T __rt_time_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time.c:136
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002f6e 00000090 T rt_cluster_call	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/pulpos_emu.c:40
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003a62 00000092 t _to_x	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/prf.c:44
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00517c 00000098 b __rt_gpio	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/drivers/gpio/gpio-v2.c:34
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002928 000000a2 T InitOneFll	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:771
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0037ee 000000a8 t tfp_putc.isra.9	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002acc 000000ac T __rt_pmu_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/gap/pmu_driver.c:472
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001618 000000b2 T generateAndPrintRandomMatrix
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000dee 000000b2 t plp_dma_getCmd
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004fd0 000000c0 D __hal_debug_struct
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0029ca 000000c2 T __rt_pmu_cluster_power_up
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001710 000000c8 T helloworld
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0035ae 000000ce t __rt_io_uart_flush.constprop.11	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/io.c:795
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002d82 000000d4 T pi_cluster_open	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:343
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00284a 000000de T SetFllFrequency
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001080 000000e2 t __cl_dma_copy
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00240a 000000f2 T __rt_timer_handler	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/time_irq.c:30
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003054 000000fa T pi_cluster_send_task_to_cl_async	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster_call.c:65
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c004c0c 00000100 R __clz_tab
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c001162 0000011e t __cl_dma_memcpy
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c002c58 00000124 t __rt_cluster_mount_step	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/cluster.c:221
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0024fc 00000134 T rt_periph_copy	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/periph-v2.c:58
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c00186e 00000166 T __rt_init	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/kernel/init.c:74
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c0013b8 00000220 T serch_matrix
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:00000030 00000280 D periph_channels
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000842 0000032e T __umoddi3	/home/gitlab-runner/riscv-gnu-toolchain/riscv-gnu-toolchain/riscv-gcc/libgcc/libgcc2.c:1305
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c000506 0000033c T __udivdi3	/home/gitlab-runner/riscv-gnu-toolchain/riscv-gnu-toolchain/riscv-gcc/libgcc/libgcc2.c:1317
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1b000398 00000800 D __rt_fc_stack
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c003b8c 00000ab6 T _prf	/home/xieyifan/gap/gap_sdk/gap8/rtos/pulp/pulp-os/libs/io/prf.c:437
+/home/xieyifan/gap/gap_sdk/examples/pmsis/helloworld/BUILD/GAP8_V2/GCC_RISCV_PULPOS/test:1c005304 00009c40 B matrix
